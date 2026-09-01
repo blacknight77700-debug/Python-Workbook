@@ -11,3 +11,5 @@ elif score > 5000 and coin in coins:
     print("You have reached level 1. Keep going")
 else:
     print("Increase your score and collect coins to move up")
+
+# Two problems - Because on line 7, it's saying it has to be over 10,000. If we add >= it will print line 7. It also needs it be 'GOld' not 'gold'

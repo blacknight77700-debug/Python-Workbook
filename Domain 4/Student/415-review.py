@@ -12,4 +12,4 @@ print("Thank you for playing.")
 
 print(__doc__)
 
-# My results are pretty much the same just differennt wording
+# My results are pretty much the same just different wording

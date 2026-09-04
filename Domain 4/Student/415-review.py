@@ -1,4 +1,4 @@
-
+""" It tells players what position they have reached in each level in a game"""
 
 
 game_state = True
@@ -10,3 +10,6 @@ while game_lives <= 3:
         game_lives +=1
 print("Thank you for playing.")
 
+print(__doc__)
+
+# My results are pretty much the same just differennt wording

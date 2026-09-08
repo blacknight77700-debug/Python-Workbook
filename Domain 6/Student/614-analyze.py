@@ -1,6 +1,6 @@
-import #module
+import io #module
 
-question_stream = #method needed
+question_stream = io.StringIO() #method needed
 
 question_stream.write("The game has started.\n")
 question_stream.write("Here is your first question. \n")
